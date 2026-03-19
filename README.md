@@ -4,7 +4,9 @@ A low-level networking project built to explore TCP/IP stack, C Socket Programmi
 This project implements a bidirectional, offline chat system where a Server and a  Client can exchange secure messages.
 <br>
 # 🎯 Learning Objectives
-Network Fundamentals:  Understanding the life cycle of a socket (Socket → Bind → Listen → Accept → Connect). * C Programming: Deepening knowledge of pointers, buffers, and system calls like read(), write(), and bzero().
+Network Fundamentals:  Understanding the life cycle of a socket (Socket → Bind → Listen → Accept → Connect). 
+<br>
+Programming: Deepening knowledge of pointers, buffers, and system calls like read(), write(), and bzero().
 <br>
 Systems Architecture: Implementing a synchronous messaging protocol between two distinct processes.
 # 📂 Project Structure
